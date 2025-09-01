@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 Currently building **SOCVision 2.0** with **Django** (AI/ML for SOC automation)  
-- 🧠 Interests: **LLM agents, GenAI, computer vision**  
+- 🧠 Interests: **LLM agents, GenAI**  
 - 🌱 Learning: **Cloud (AWS), TensorFlow, PyTorch**  
 - 🤝 Open to collaborating on **security analytics** and **AI-driven tooling**
 
