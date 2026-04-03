@@ -6,7 +6,7 @@
 
 
 
-<p align="center">AI graduate • Web developer • AI/ML Engineer • AWS Developer</p>
+<p align="center">AI/ML Engineer • Full-Stack Developer • MLOps</p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Nasser-Alzaid&label=Profile%20views&style=flat" alt="profile views" />
 
