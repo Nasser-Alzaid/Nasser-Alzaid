@@ -80,11 +80,7 @@
 ### 🔗 Connect Me
 
 <a href="mailto:na99er.mg@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
-
 <a href="https://www.linkedin.com/in/nasser-alzaid-7b6886212/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
-
 <a href="https://x.com/Naz_Junior0">
-
-  <img src="https://img.shields.io/badge/|@Naz_Junior0-black?logo=x&logoColor=white" />
-
+<img src="https://img.shields.io/badge/|@Naz_Junior0-black?logo=x&logoColor=white" />
 </a>
