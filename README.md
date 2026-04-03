@@ -6,19 +6,16 @@
 
 
 
-<p align="center">AI/ML Engineer • Full-Stack Developer • MLOps</p>
+<p align="center">AI/ML Engineer • Web Developer • Cloud Solutions Architect • MLOps</p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Nasser-Alzaid&label=Profile%20views&style=flat" alt="profile views" />
 
 </p>
 
-
-
-- 🧠 Interests: **LLM agents, GenAI**  
-
-- 🌱 Learning: **Cloud (AWS), TensorFlow, PyTorch**  
-
-- 🤝 Open to collaborating on **security analytics** and **AI-driven tooling**
+- 🔭 **Currently Architecting:** `SOCVision 2.0` — Orchestrating **Django**, **AWS EC2**, and **S3** for automated security intelligence.
+- ⚙️ **Focus:** Engineering robust **MLOps pipelines** and **Agentic workflows** (AgentCore/Bedrock).
+- 🧠 **Interests:** LLM Orchestration, Generative AI, and Cloud-Native Security.
+- 🤝 **Collaborations:** Open to high-scale **AI Infrastructure** and **Security Analytics** projects.
 
 
 
