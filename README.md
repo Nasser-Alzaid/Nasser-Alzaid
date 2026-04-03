@@ -27,8 +27,10 @@
   <a href="https://www.python.org/"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/></a>
   <a href="https://isocpp.org/"><img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/></a>
   <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32"/></a>
+  <a href="https://www.langchain.com/"><img alt="LangChain" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="32"/></a>
   <a href="https://pytorch.org/"><img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32"/></a>
   <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32"/></a>
+  <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="32"/></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></a>
   <a href="https://cloud.google.com/?hl=en"><img alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32"/></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/></a>
