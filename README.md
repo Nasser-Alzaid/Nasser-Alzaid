@@ -6,7 +6,7 @@
 
 
 
-<p align="center">AI/ML Engineer • Web Developer • Cloud Solutions Architect • MLOps</p>
+<p align="center">AI/ML Engineer • Web Developer • MLOps</p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Nasser-Alzaid&label=Profile%20views&style=flat" alt="profile views" />
 
